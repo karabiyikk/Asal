@@ -1,6 +1,3 @@
-package Metotlar;
-// 3,5,7,11,13
-
 import java.util.Scanner;
 
 public class AsalSayi {
